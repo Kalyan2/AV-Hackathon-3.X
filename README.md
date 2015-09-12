@@ -1,4 +1,4 @@
-##### Codes for Analytics Vidhya Online Hackathon 3.X - Find the Next Brain Wong !
+##### Codes for Analytics Vidhya Online Hackathon 3.X - Predict-customer-worth-for-happy-customer-bank
 
 http://discuss.analyticsvidhya.com/t/hackathon-3-x-predict-customer-worth-for-happy-customer-bank/3802
 
