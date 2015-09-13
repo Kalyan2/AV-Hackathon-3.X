@@ -120,9 +120,9 @@ test['Disbursed']=pred_test_y_xgb1
 # Step 6.v) Getting the output
 test.to_csv('E:/DS/AV Hack 3.x/Solution_xgb.csv', columns=['ID','Disbursed'],index=False)
 
-## Step 7) Running my 2nd Model XGB
+## Step 7) Running my 2nd Model Random Forest
 
-# Step 7.i): Defining features for XGB
+# Step 7.i): Defining features for Random Forest
 features=['City',
 'Monthly_Income',
 'Lead_Creation_Date',    
